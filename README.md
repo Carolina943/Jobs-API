@@ -5,4 +5,4 @@
 
 ## Hosted Project
 
-[Task-Manager API Documentation - Render URL](https://api-jobs.onrender.com)
+[jobs-api API Documentation - Render URL](https://api-jobs.onrender.com)
